@@ -1,8 +1,8 @@
 <div align="center">
 <h1>👋 Hi, I'm Yassir Laattar</h1>
 <p>🚀 <b>Computer Engineering Student | Software & Web Developer</b></p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laattar-yassir-77600b430)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirlaatar@gmail.com)
+<a href="https://www.linkedin.com/in/laattar-yassir-77600b430"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yasirlaatar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 ---
 ### 👨‍💻 About Me
